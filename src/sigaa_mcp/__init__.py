@@ -1,0 +1,1 @@
+"""MCP do SIGAA (UNEMAT)."""
